@@ -1,0 +1,15 @@
+# J'ignore la base de données d'images pour éviter de la pousser par erreur
+dogs_vs_cats/
+train/
+test/
+
+# J'ignore les images pour éviter de les pousser par erreur
+*.jpg
+*.jpeg
+*.png
+
+# (Optionnel) ignorer les notebooks temporaires
+*.ipynb_checkpoints
+
+# (Optionnel) ignorer fichiers système
+.DS_Store
